@@ -8,11 +8,11 @@ Aplicativo em flask utilizando o modelo de arquitetura MVC (Model - View - Contr
 
 ## Técnicas e Tecnologias utilizadas
 - ``Python``
-- ''Flask''
-- ''pip''
-- ''sqlalchemy''
-- ''HTML''
-- ''CSS''
+- ``Flask``
+- ``pip``
+- ``sqlalchemy``
+- ``HTML``
+- ``CSS``
 
 ## Requisitos
 Antes de tudo é necessário ter as seguintes instalações:
@@ -33,44 +33,44 @@ git clone https://github.com/ThiagoLipe/flask-mvc-app.git
 
 ## 3.Instalando as bibliotecas
 <p>Instale as bibliotecas necessárias, no terminal digite</p>
-'''
+```
 pip install Flask
 pip install flask_sqlalchemy
-'''
+```
 
 ## 4. Ative o ambiente virtual, ainda no terminal
 ### Para Windows:
-'''
+```
 venv/Scripts/activate
-'''
+```
 
 ### Para Linux/MacOS:
-'''
+```
 source venv/bin/activate
-'''
+```
 
 ## 5. Defina as variáveis de ambiente, ainda no terminal
 ### Para Windows:
-'''
+```
 set FLASK_APP=app
 set FLASK_ENV=development
-'''
+```
 
 ### Para Linux/MacOS:
-'''
+```
 export FLASK_APP=app
 export FLASK_ENV=development
-'''
+```
 
 ## 6. Inicie o banco de dados
-'''
+```
 python init_db.py
-'''
+```
 
 ## 7. Por último, execute o app
-'''
+```
 flask run
-'''
+```
 
 ## Abrir o servidor no seu navegador
 Uma porta de servidor será exibida, clique nela para usar o aplicativo.
