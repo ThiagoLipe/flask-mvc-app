@@ -7,7 +7,7 @@ Aplicativo em flask utilizando o modelo de arquitetura MVC (Model - View - Contr
 - Visualizar todos os Usuários cadastrados
 
 ## Técnicas e Tecnologias utilizadas
-- ''Python''
+- ``Python``
 - ''Flask''
 - ''pip''
 - ''sqlalchemy''
@@ -24,9 +24,9 @@ Antes de tudo é necessário ter as seguintes instalações:
 
 # Passos para instalação
 ## 1. Primeiro clone o repositório
-'''
+```
 git clone https://github.com/ThiagoLipe/flask-mvc-app.git
-'''
+```
 
 ## 2.Abra o arquivo clonado na sua IDE
 <p>E acesse o terminal</p>
