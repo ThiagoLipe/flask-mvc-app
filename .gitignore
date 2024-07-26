@@ -1,0 +1,23 @@
+# Arquivo .gitignore
+
+# Diretórios do ambiente virtual
+venv/
+__pycache__/
+
+# Arquivos do ambiente virtual
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações do editor
+*.swp
+*.swo
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do Flask
+instance/
+.env
+venv
