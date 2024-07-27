@@ -33,7 +33,9 @@ git clone https://github.com/ThiagoLipe/flask-mvc-app.git
 E abra o terminal cmd na pasta flask-mvc-app
 
 ## 3. Crie um ambiente virtual
-```python -m venv venv```
+```
+python -m venv venv
+```
 
 ## 4. Instalando as bibliotecas
 Instale as bibliotecas necessárias, no terminal digite
